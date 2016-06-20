@@ -1,3 +1,7 @@
+THIS REPOSITORY WAS DEPRECATED. ALL FUTURE DEVELOPMENT HAPPENS IN THE BEATS REPO: https://github.com/elastic/beats/tree/master/generate/beat 
+
+USE THE BEATS REPO TO BUILD YOUR BEATS AND CONTIRUBTE.
+
 This generator makes it possible to generate your own beat in seconds and build up on it.
 
 
